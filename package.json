@@ -1,0 +1,34 @@
+{
+    "bin": {
+        "clisp": "bin/clisp.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^4.1.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "clisp",
+    "version": "0.0.1",
+    "main": "index.js",
+    "keywords": [
+        "LISP",
+        "common-LISP"
+    ],
+    "homepage": "https://github.com/YounGoat/clisp",
+    "description": "Simulator of Common LISP",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/clisp.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    },
+    "engines": {
+        "node": ">=6"
+    }
+}
